@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniProject.Web", "SoftUniProject.Web\SoftUniProject.Web.csproj", "{345112DB-4BD1-4CC9-9C0D-73A484E3392F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniProject.Web.ViewModels", "SoftUniProject.Web.ViewModels\SoftUniProject.Web.ViewModels.csproj", "{D240B50B-F4DB-4447-AFDA-85EB4B70F0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345112DB-4BD1-4CC9-9C0D-73A484E3392F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345112DB-4BD1-4CC9-9C0D-73A484E3392F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345112DB-4BD1-4CC9-9C0D-73A484E3392F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345112DB-4BD1-4CC9-9C0D-73A484E3392F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D240B50B-F4DB-4447-AFDA-85EB4B70F0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D240B50B-F4DB-4447-AFDA-85EB4B70F0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D240B50B-F4DB-4447-AFDA-85EB4B70F0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D240B50B-F4DB-4447-AFDA-85EB4B70F0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97164E97-78B9-4726-9CCD-A2AE834EDB8C}
+	EndGlobalSection
+EndGlobal
